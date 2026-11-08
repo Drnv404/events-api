@@ -9,7 +9,7 @@
     {
       "binding": "DB",
       "database_name": "events-db",
-      "database_id": "ASENDA_OMA_DATABASE_ID",
+      "database_id": "8a5ac1e3-38f0-4a92-b12a-2a1bbb216113",
       "migrations_dir": "migrations"
     }
   ]
